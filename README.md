@@ -1,7 +1,9 @@
 🏢 Visitor Management System
+
 A full-stack web application designed for secure, streamlined guest tracking, pre-registration, and real-time host-employee coordination. Built for corporate offices, reception desks, and enterprise security teams.
 
 🚀 Features
+
 Guest Portal: Allows visitors to submit visit requests, provide contact information, and specify visit purposes.
 
 Security Dashboard: Real-time monitoring and review queue for security personnel to approve or deny incoming guest requests with audit notes.
@@ -13,6 +15,7 @@ Authentication & Role Management: Secure user signup, login, and role-based acce
 Robust Database Layer: Powered by PostgreSQL and Prisma ORM for efficient relational mapping between hosts and visit records.
 
 🛠️ Tech Stack
+
 Frontend: React, React Router, Tailwind CSS, Lucide Icons
 
 Backend: Node.js, Express.js, RESTful APIs
