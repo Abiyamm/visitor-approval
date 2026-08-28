@@ -15,7 +15,8 @@ A full-stack web application designed for secure, streamlined guest tracking, pr
 ---
 ## 📸 App Preview
 
-![Visitor Management System Dashboard](./assets/dashboard-screenshot.png)
+![Visitor Management System (https://visitor-approval-five.vercel.app/)
+
 ## 🛠️ Tech Stack
 
 * **Frontend**: React, React Router, Tailwind CSS, Lucide Icons
