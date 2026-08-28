@@ -15,8 +15,7 @@ A full-stack web application designed for secure, streamlined guest tracking, pr
 ---
 ## 📸 App Preview
 
-![Dashboard Preview](./assets/dashboard-screenshot.png)
-
+![Visitor Management System Dashboard](./assets/dashboard-screenshot.png)
 ## 🛠️ Tech Stack
 
 * **Frontend**: React, React Router, Tailwind CSS, Lucide Icons
