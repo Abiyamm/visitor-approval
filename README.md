@@ -13,6 +13,9 @@ A full-stack web application designed for secure, streamlined guest tracking, pr
 * **Robust Database Layer**: Powered by PostgreSQL and Prisma ORM for efficient relational mapping between hosts and visit records.
 
 ---
+## 📸 App Preview
+
+![Dashboard Preview](./assets/dashboard-screenshot.png)
 
 ## 🛠️ Tech Stack
 
